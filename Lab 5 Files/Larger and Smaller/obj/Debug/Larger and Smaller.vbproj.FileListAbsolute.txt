@@ -1,0 +1,26 @@
+C:\Users\Sam\AppData\Local\Temporary Projects\Larger and Smaller\bin\Debug\Larger and Smaller.exe.config
+E:\140Vb\Labs\Lab 5 Files\Larger and Smaller\bin\Debug\Larger and Smaller.exe.config
+K:\140Vb\Labs\Lab 5 Files\Larger and Smaller\bin\Debug\Larger and Smaller.exe.config
+K:\140Vb\Labs\Lab 5 Files\Larger and Smaller\obj\Debug\Larger_and_Smaller.frmOne.resources
+K:\140Vb\Labs\Lab 5 Files\Larger and Smaller\obj\Debug\Larger_and_Smaller.Resources.resources
+K:\140Vb\Labs\Lab 5 Files\Larger and Smaller\obj\Debug\Larger and Smaller.vbproj.GenerateResource.Cache
+K:\140Vb\Labs\Lab 5 Files\Larger and Smaller\bin\Debug\Larger and Smaller.exe
+K:\140Vb\Labs\Lab 5 Files\Larger and Smaller\bin\Debug\Larger and Smaller.pdb
+K:\140Vb\Labs\Lab 5 Files\Larger and Smaller\bin\Debug\Larger and Smaller.xml
+K:\140Vb\Labs\Lab 5 Files\Larger and Smaller\obj\Debug\Larger and Smaller.exe
+K:\140Vb\Labs\Lab 5 Files\Larger and Smaller\obj\Debug\Larger and Smaller.xml
+K:\140Vb\Labs\Lab 5 Files\Larger and Smaller\obj\Debug\Larger and Smaller.pdb
+S:\Visual Basic\Labs\Lab 5 Files\Larger and Smaller\bin\Debug\Larger and Smaller.exe.config
+S:\Visual Basic\Labs\Lab 5 Files\Larger and Smaller\obj\Debug\Larger and Smaller.exe
+S:\Visual Basic\Labs\Lab 5 Files\Larger and Smaller\obj\Debug\Larger and Smaller.xml
+S:\Visual Basic\Labs\Lab 5 Files\Larger and Smaller\obj\Debug\Larger and Smaller.pdb
+F:\Visual Basic\Labs\Lab 5 Files\Larger and Smaller\bin\Debug\Larger and Smaller.exe.config
+F:\Visual Basic\Labs\Lab 5 Files\Larger and Smaller\obj\Debug\Larger and Smaller.exe
+F:\Visual Basic\Labs\Lab 5 Files\Larger and Smaller\obj\Debug\Larger and Smaller.xml
+F:\Visual Basic\Labs\Lab 5 Files\Larger and Smaller\obj\Debug\Larger and Smaller.pdb
+F:\Visual Basic\Labs\Lab 5 Files\Larger and Smaller\bin\Debug\Larger and Smaller.exe
+F:\Visual Basic\Labs\Lab 5 Files\Larger and Smaller\bin\Debug\Larger and Smaller.pdb
+F:\Visual Basic\Labs\Lab 5 Files\Larger and Smaller\bin\Debug\Larger and Smaller.xml
+F:\Visual Basic\Labs\Lab 5 Files\Larger and Smaller\obj\Debug\Larger_and_Smaller.frmOne.resources
+F:\Visual Basic\Labs\Lab 5 Files\Larger and Smaller\obj\Debug\Larger_and_Smaller.Resources.resources
+F:\Visual Basic\Labs\Lab 5 Files\Larger and Smaller\obj\Debug\Larger and Smaller.vbproj.GenerateResource.Cache

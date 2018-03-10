@@ -1,0 +1,103 @@
+S:\140Vb\Labs\Lab 2 Files\Area Calculator\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+F:\140Vb\Labs\Lab 2 Files\Area Calculator\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+F:\140Vb\Labs\Lab 2 Files\Area Calculator\WindowsApplication1\obj\Debug\WindowsApplication1.frmArea.resources
+F:\140Vb\Labs\Lab 2 Files\Area Calculator\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+F:\140Vb\Labs\Lab 2 Files\Area Calculator\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+F:\140Vb\Labs\Lab 2 Files\Area Calculator\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+F:\140Vb\Labs\Lab 2 Files\Area Calculator\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+F:\140Vb\Labs\Lab 2 Files\Area Calculator\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+F:\140Vb\Labs\Lab 2 Files\Area Calculator\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+F:\140Vb\Labs\Lab 2 Files\Area Calculator\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+F:\140Vb\Labs\Lab 2 Files\Area Calculator\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+F:\140Vb\Labs\Lab 3 Files\Area Calculator\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+F:\140Vb\Labs\Lab 3 Files\Area Calculator\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+F:\140Vb\Labs\Lab 3 Files\Area Calculator\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+F:\140Vb\Labs\Lab 3 Files\Area Calculator\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+F:\140Vb\Labs\Lab 3 Files\Area Calculator\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+F:\140Vb\Labs\Lab 3 Files\Area Calculator\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+F:\140Vb\Labs\Lab 3 Files\Area Calculator\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+F:\140Vb\Labs\Lab 3 Files\Area Calculator\WindowsApplication1\obj\Debug\WindowsApplication1.frmArea.resources
+F:\140Vb\Labs\Lab 3 Files\Area Calculator\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+F:\140Vb\Labs\Lab 3 Files\Area Calculator\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+F:\140Vb\Labs\Lab 3 Files\Area Calculator v3\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+F:\140Vb\Labs\Lab 3 Files\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+F:\140Vb\Labs\Lab 3 Files\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+F:\140Vb\Labs\Lab 3 Files\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+F:\140Vb\Labs\Lab 3 Files\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.frmArea.resources
+F:\140Vb\Labs\Lab 3 Files\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+F:\140Vb\Labs\Lab 3 Files\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+F:\140Vb\Labs\Lab 3 Files\Area Calculator v3\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+F:\140Vb\Labs\Lab 3 Files\Area Calculator v3\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+F:\140Vb\Labs\Lab 3 Files\Area Calculator v3\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\140Vb\Labs\Lab 4 Files\Area Calculator v3\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\140Vb\Labs\Lab 4 Files\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\140Vb\Labs\Lab 4 Files\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\140Vb\Labs\Lab 4 Files\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\140Vb\Labs\Lab 4 Files\Area Calculator v3\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\140Vb\Labs\Lab 4 Files\Area Calculator v3\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\140Vb\Labs\Lab 4 Files\Area Calculator v3\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\140Vb\Labs\Lab 4 Files\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.frmArea.resources
+E:\140Vb\Labs\Lab 4 Files\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+E:\140Vb\Labs\Lab 4 Files\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+J:\140Vb\Labs\Lab 4 Files\Area Calculator v3\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+J:\140Vb\Labs\Lab 4 Files\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+J:\140Vb\Labs\Lab 4 Files\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+J:\140Vb\Labs\Lab 4 Files\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Sam\Desktop\Lab 4 Files\Area Calculator v3\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Sam\Desktop\Lab 4 Files\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Sam\Desktop\Lab 4 Files\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Sam\Desktop\Lab 4 Files\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Sam\Desktop\Lab 4 Files\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.frmArea.resources
+C:\Users\Sam\Desktop\Lab 4 Files\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Sam\Desktop\Lab 4 Files\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Sam\Desktop\Lab 4 Files\Area Calculator v3\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Sam\Desktop\Lab 4 Files\Area Calculator v3\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Sam\Desktop\Lab 4 Files\Area Calculator v3\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\140Vb\Labs\Lab 4 Filesb\Area Calculator v3\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\140Vb\Labs\Lab 4 Filesb\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\140Vb\Labs\Lab 4 Filesb\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\140Vb\Labs\Lab 4 Filesb\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\140Vb\Labs\Lab 4 Filesb\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.frmArea.resources
+E:\140Vb\Labs\Lab 4 Filesb\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+E:\140Vb\Labs\Lab 4 Filesb\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\140Vb\Labs\Lab 4 Filesb\Area Calculator v3\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\140Vb\Labs\Lab 4 Filesb\Area Calculator v3\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\140Vb\Labs\Lab 4 Filesb\Area Calculator v3\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+J:\140Vb\Labs\Lab 4 Filesb\Area Calculator v3\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+J:\140Vb\Labs\Lab 4 Filesb\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+J:\140Vb\Labs\Lab 4 Filesb\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+J:\140Vb\Labs\Lab 4 Filesb\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+J:\140Vb\Labs\Lab 4 Filesb\Area Calculator v3\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+J:\140Vb\Labs\Lab 4 Filesb\Area Calculator v3\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+J:\140Vb\Labs\Lab 4 Filesb\Area Calculator v3\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+J:\140Vb\Labs\Lab 4 Filesb\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.frmArea.resources
+J:\140Vb\Labs\Lab 4 Filesb\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+J:\140Vb\Labs\Lab 4 Filesb\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+J:\140Vb\Labs\Lab 4 Files\Area Calculator v3\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+J:\140Vb\Labs\Lab 4 Files\Area Calculator v3\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+J:\140Vb\Labs\Lab 4 Files\Area Calculator v3\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+J:\140Vb\Labs\Lab 4 Files\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.frmArea.resources
+J:\140Vb\Labs\Lab 4 Files\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+J:\140Vb\Labs\Lab 4 Files\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+K:\140Vb\Labs\Lab 4 Files\Area Calculator v3\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+K:\140Vb\Labs\Lab 4 Files\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+K:\140Vb\Labs\Lab 4 Files\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+K:\140Vb\Labs\Lab 4 Files\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+K:\140Vb\Labs\Lab 4 Files\Area Calculator v3\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+K:\140Vb\Labs\Lab 4 Files\Area Calculator v3\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+K:\140Vb\Labs\Lab 4 Files\Area Calculator v3\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+K:\140Vb\Labs\Lab 4 Files\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.frmArea.resources
+K:\140Vb\Labs\Lab 4 Files\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+K:\140Vb\Labs\Lab 4 Files\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+J:\Visual Basic\Labs\Lab 4 Files\Area Calculator v3\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+J:\Visual Basic\Labs\Lab 4 Files\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+J:\Visual Basic\Labs\Lab 4 Files\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+J:\Visual Basic\Labs\Lab 4 Files\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+S:\Visual Basic\Labs\Lab 4 Files\Area Calculator v3\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+S:\Visual Basic\Labs\Lab 4 Files\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+S:\Visual Basic\Labs\Lab 4 Files\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+S:\Visual Basic\Labs\Lab 4 Files\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+F:\Visual Basic\Labs\Lab 4 Files\Area Calculator v3\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+F:\Visual Basic\Labs\Lab 4 Files\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+F:\Visual Basic\Labs\Lab 4 Files\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+F:\Visual Basic\Labs\Lab 4 Files\Area Calculator v3\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
