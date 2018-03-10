@@ -1,0 +1,19 @@
+E:\140Vb\Labs\Lab 4 Files\Roman Numeral Converter\bin\Debug\Roman Numeral Converter.exe.config
+K:\140Vb\Labs\Lab 4 Files\Roman Numeral Converter\bin\Debug\Roman Numeral Converter.exe.config
+K:\140Vb\Labs\Lab 4 Files\Roman Numeral Converter\obj\Debug\Roman_Numeral_Converter.Form1.resources
+K:\140Vb\Labs\Lab 4 Files\Roman Numeral Converter\obj\Debug\Roman_Numeral_Converter.Resources.resources
+K:\140Vb\Labs\Lab 4 Files\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.vbproj.GenerateResource.Cache
+K:\140Vb\Labs\Lab 4 Files\Roman Numeral Converter\bin\Debug\Roman Numeral Converter.exe
+K:\140Vb\Labs\Lab 4 Files\Roman Numeral Converter\bin\Debug\Roman Numeral Converter.pdb
+K:\140Vb\Labs\Lab 4 Files\Roman Numeral Converter\bin\Debug\Roman Numeral Converter.xml
+K:\140Vb\Labs\Lab 4 Files\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.exe
+K:\140Vb\Labs\Lab 4 Files\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.xml
+K:\140Vb\Labs\Lab 4 Files\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.pdb
+S:\Visual Basic\Labs\Lab 4 Files\Roman Numeral Converter\bin\Debug\Roman Numeral Converter.exe.config
+S:\Visual Basic\Labs\Lab 4 Files\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.exe
+S:\Visual Basic\Labs\Lab 4 Files\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.xml
+S:\Visual Basic\Labs\Lab 4 Files\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.pdb
+F:\Visual Basic\Labs\Lab 4 Files\Roman Numeral Converter\bin\Debug\Roman Numeral Converter.exe.config
+F:\Visual Basic\Labs\Lab 4 Files\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.exe
+F:\Visual Basic\Labs\Lab 4 Files\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.xml
+F:\Visual Basic\Labs\Lab 4 Files\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.pdb

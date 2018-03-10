@@ -1,0 +1,20 @@
+C:\Users\Sam\AppData\Local\Temporary Projects\Software Sales\bin\Debug\Software Sales.exe.config
+E:\140Vb\Labs\Lab 5 Files\Software Sales\bin\Debug\Software Sales.exe.config
+K:\140Vb\Labs\Lab 5 Files\Software Sales\bin\Debug\Software Sales.exe.config
+K:\140Vb\Labs\Lab 5 Files\Software Sales\bin\Debug\Software Sales.exe
+K:\140Vb\Labs\Lab 5 Files\Software Sales\bin\Debug\Software Sales.pdb
+K:\140Vb\Labs\Lab 5 Files\Software Sales\bin\Debug\Software Sales.xml
+K:\140Vb\Labs\Lab 5 Files\Software Sales\obj\Debug\Software_Sales.Form1.resources
+K:\140Vb\Labs\Lab 5 Files\Software Sales\obj\Debug\Software_Sales.Resources.resources
+K:\140Vb\Labs\Lab 5 Files\Software Sales\obj\Debug\Software Sales.vbproj.GenerateResource.Cache
+K:\140Vb\Labs\Lab 5 Files\Software Sales\obj\Debug\Software Sales.exe
+K:\140Vb\Labs\Lab 5 Files\Software Sales\obj\Debug\Software Sales.xml
+K:\140Vb\Labs\Lab 5 Files\Software Sales\obj\Debug\Software Sales.pdb
+S:\Visual Basic\Labs\Lab 5 Files\Software Sales\bin\Debug\Software Sales.exe.config
+S:\Visual Basic\Labs\Lab 5 Files\Software Sales\obj\Debug\Software Sales.exe
+S:\Visual Basic\Labs\Lab 5 Files\Software Sales\obj\Debug\Software Sales.xml
+S:\Visual Basic\Labs\Lab 5 Files\Software Sales\obj\Debug\Software Sales.pdb
+F:\Visual Basic\Labs\Lab 5 Files\Software Sales\bin\Debug\Software Sales.exe.config
+F:\Visual Basic\Labs\Lab 5 Files\Software Sales\obj\Debug\Software Sales.exe
+F:\Visual Basic\Labs\Lab 5 Files\Software Sales\obj\Debug\Software Sales.xml
+F:\Visual Basic\Labs\Lab 5 Files\Software Sales\obj\Debug\Software Sales.pdb
