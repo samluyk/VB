@@ -1,0 +1,10 @@
+F:\140Vb\Labs\Lab 3 Files\Highlander Hotel\bin\Debug\Highlander Hotel.exe.config
+F:\140Vb\Labs\Lab 3 Files\Highlander Hotel\bin\Debug\Highlander Hotel.exe
+F:\140Vb\Labs\Lab 3 Files\Highlander Hotel\bin\Debug\Highlander Hotel.pdb
+F:\140Vb\Labs\Lab 3 Files\Highlander Hotel\bin\Debug\Highlander Hotel.xml
+F:\140Vb\Labs\Lab 3 Files\Highlander Hotel\obj\Debug\Highlander_Hotel.frmMain.resources
+F:\140Vb\Labs\Lab 3 Files\Highlander Hotel\obj\Debug\Highlander_Hotel.Resources.resources
+F:\140Vb\Labs\Lab 3 Files\Highlander Hotel\obj\Debug\Highlander Hotel.vbproj.GenerateResource.Cache
+F:\140Vb\Labs\Lab 3 Files\Highlander Hotel\obj\Debug\Highlander Hotel.exe
+F:\140Vb\Labs\Lab 3 Files\Highlander Hotel\obj\Debug\Highlander Hotel.xml
+F:\140Vb\Labs\Lab 3 Files\Highlander Hotel\obj\Debug\Highlander Hotel.pdb

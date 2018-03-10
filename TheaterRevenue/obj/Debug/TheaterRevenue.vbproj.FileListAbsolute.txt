@@ -1,0 +1,34 @@
+Public Class frmRevenue
+Private Sub btnClear_Click(sender As Object, e As EventArgs) Handles btnClear.Click
+txtClassA.Clear()
+txtClassA2.Clear()
+txtClassB.Clear()
+txtClassB2.Clear()
+txtClassC.Clear()
+txtClassC2.Clear()
+txtTotalRevenue.Clear()
+End Sub
+Private Sub btnExit_Click(sender As Object, e As EventArgs) Handles btnExit.Click
+Me.Close()
+Private Sub btnCalc_Click(sender As Object, e As EventArgs) Handles btnCalc.Click
+Dim num1 As Integer
+Dim num2 As Integer
+Dim num3 As Integer
+Dim ans As Integer
+Try
+num1 = CDbl(txtClassA.Text)
+num2 = CDbl(txtClassB.Text)
+num3 = CDbl(txtClassC.Text)
+ans = num3 *
+F:\140Vb\Labs\Lab 3 Files\TheaterRevenue\bin\Debug\TheaterRevenue.exe.config
+E:\140Vb\Labs\Lab 3 Files\TheaterRevenue\bin\Debug\TheaterRevenue.exe.config
+F:\140Vb\Labs\Lab 3 Files\TheaterRevenue\obj\Debug\TheaterRevenue.vbprojResolveAssemblyReference.cache
+F:\140Vb\Labs\Lab 3 Files\TheaterRevenue\obj\Debug\TheaterRevenue.frmRevenue.resources
+F:\140Vb\Labs\Lab 3 Files\TheaterRevenue\obj\Debug\TheaterRevenue.Resources.resources
+F:\140Vb\Labs\Lab 3 Files\TheaterRevenue\obj\Debug\TheaterRevenue.vbproj.GenerateResource.Cache
+F:\140Vb\Labs\Lab 3 Files\TheaterRevenue\bin\Debug\TheaterRevenue.exe
+F:\140Vb\Labs\Lab 3 Files\TheaterRevenue\bin\Debug\TheaterRevenue.pdb
+F:\140Vb\Labs\Lab 3 Files\TheaterRevenue\bin\Debug\TheaterRevenue.xml
+F:\140Vb\Labs\Lab 3 Files\TheaterRevenue\obj\Debug\TheaterRevenue.exe
+F:\140Vb\Labs\Lab 3 Files\TheaterRevenue\obj\Debug\TheaterRevenue.xml
+F:\140Vb\Labs\Lab 3 Files\TheaterRevenue\obj\Debug\TheaterRevenue.pdb
