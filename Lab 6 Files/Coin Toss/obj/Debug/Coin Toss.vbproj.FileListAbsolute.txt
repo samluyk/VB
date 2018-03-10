@@ -1,0 +1,11 @@
+E:\Visual Basic\Labs\Lab 6 Files\Coin Toss\bin\Debug\Coin Toss.exe.config
+J:\Visual Basic\Labs\Lab 6 Files\Coin Toss\bin\Debug\Coin Toss.exe.config
+J:\Visual Basic\Labs\Lab 6 Files\Coin Toss\obj\Debug\Coin_Toss.frmFlip.resources
+J:\Visual Basic\Labs\Lab 6 Files\Coin Toss\obj\Debug\Coin_Toss.Resources.resources
+J:\Visual Basic\Labs\Lab 6 Files\Coin Toss\obj\Debug\Coin Toss.vbproj.GenerateResource.Cache
+J:\Visual Basic\Labs\Lab 6 Files\Coin Toss\bin\Debug\Coin Toss.exe
+J:\Visual Basic\Labs\Lab 6 Files\Coin Toss\bin\Debug\Coin Toss.pdb
+J:\Visual Basic\Labs\Lab 6 Files\Coin Toss\bin\Debug\Coin Toss.xml
+J:\Visual Basic\Labs\Lab 6 Files\Coin Toss\obj\Debug\Coin Toss.exe
+J:\Visual Basic\Labs\Lab 6 Files\Coin Toss\obj\Debug\Coin Toss.xml
+J:\Visual Basic\Labs\Lab 6 Files\Coin Toss\obj\Debug\Coin Toss.pdb

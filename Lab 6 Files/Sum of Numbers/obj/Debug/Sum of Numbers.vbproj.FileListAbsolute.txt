@@ -1,0 +1,19 @@
+E:\Visual Basic\Labs\Lab 6 Files\Sum of Numbers\bin\Debug\Sum of Numbers.exe.config
+J:\Visual Basic\Labs\Lab 6 Files\Sum of Numbers\bin\Debug\Sum of Numbers.exe.config
+J:\Visual Basic\Labs\Lab 6 Files\Sum of Numbers\obj\Debug\Sum_of_Numbers.frmSum.resources
+J:\Visual Basic\Labs\Lab 6 Files\Sum of Numbers\obj\Debug\Sum_of_Numbers.Resources.resources
+J:\Visual Basic\Labs\Lab 6 Files\Sum of Numbers\obj\Debug\Sum of Numbers.vbproj.GenerateResource.Cache
+J:\Visual Basic\Labs\Lab 6 Files\Sum of Numbers\bin\Debug\Sum of Numbers.exe
+J:\Visual Basic\Labs\Lab 6 Files\Sum of Numbers\bin\Debug\Sum of Numbers.pdb
+J:\Visual Basic\Labs\Lab 6 Files\Sum of Numbers\bin\Debug\Sum of Numbers.xml
+J:\Visual Basic\Labs\Lab 6 Files\Sum of Numbers\obj\Debug\Sum of Numbers.exe
+J:\Visual Basic\Labs\Lab 6 Files\Sum of Numbers\obj\Debug\Sum of Numbers.xml
+J:\Visual Basic\Labs\Lab 6 Files\Sum of Numbers\obj\Debug\Sum of Numbers.pdb
+S:\Visual Basic\Labs\Lab 6 Files\Sum of Numbers\bin\Debug\Sum of Numbers.exe.config
+S:\Visual Basic\Labs\Lab 6 Files\Sum of Numbers\obj\Debug\Sum of Numbers.exe
+S:\Visual Basic\Labs\Lab 6 Files\Sum of Numbers\obj\Debug\Sum of Numbers.xml
+S:\Visual Basic\Labs\Lab 6 Files\Sum of Numbers\obj\Debug\Sum of Numbers.pdb
+F:\Visual Basic\Labs\Lab 6 Files\Sum of Numbers\bin\Debug\Sum of Numbers.exe.config
+F:\Visual Basic\Labs\Lab 6 Files\Sum of Numbers\obj\Debug\Sum of Numbers.exe
+F:\Visual Basic\Labs\Lab 6 Files\Sum of Numbers\obj\Debug\Sum of Numbers.xml
+F:\Visual Basic\Labs\Lab 6 Files\Sum of Numbers\obj\Debug\Sum of Numbers.pdb
