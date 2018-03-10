@@ -1,0 +1,18 @@
+E:\140Vb\Demos\OvertimeCalc\bin\Debug\OvertimeCalc.exe.config
+E:\140Vb\Demos\OvertimeCalc\bin\Debug\OvertimeCalc.exe
+E:\140Vb\Demos\OvertimeCalc\bin\Debug\OvertimeCalc.pdb
+E:\140Vb\Demos\OvertimeCalc\bin\Debug\OvertimeCalc.xml
+E:\140Vb\Demos\OvertimeCalc\obj\Debug\OvertimeCalc.frmPay.resources
+E:\140Vb\Demos\OvertimeCalc\obj\Debug\OvertimeCalc.Resources.resources
+E:\140Vb\Demos\OvertimeCalc\obj\Debug\OvertimeCalc.vbproj.GenerateResource.Cache
+E:\140Vb\Demos\OvertimeCalc\obj\Debug\OvertimeCalc.exe
+E:\140Vb\Demos\OvertimeCalc\obj\Debug\OvertimeCalc.xml
+E:\140Vb\Demos\OvertimeCalc\obj\Debug\OvertimeCalc.pdb
+S:\Visual Basic\Demos\OvertimeCalc\bin\Debug\OvertimeCalc.exe.config
+S:\Visual Basic\Demos\OvertimeCalc\obj\Debug\OvertimeCalc.exe
+S:\Visual Basic\Demos\OvertimeCalc\obj\Debug\OvertimeCalc.xml
+S:\Visual Basic\Demos\OvertimeCalc\obj\Debug\OvertimeCalc.pdb
+F:\Visual Basic\Demos\OvertimeCalc\bin\Debug\OvertimeCalc.exe.config
+F:\Visual Basic\Demos\OvertimeCalc\obj\Debug\OvertimeCalc.exe
+F:\Visual Basic\Demos\OvertimeCalc\obj\Debug\OvertimeCalc.xml
+F:\Visual Basic\Demos\OvertimeCalc\obj\Debug\OvertimeCalc.pdb

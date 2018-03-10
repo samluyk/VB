@@ -1,0 +1,10 @@
+S:\140Vb\Labs\Lab1\bin\Debug\Lab1.exe.config
+S:\140Vb\Labs\Lab1\bin\Debug\Lab1.exe
+S:\140Vb\Labs\Lab1\bin\Debug\Lab1.pdb
+S:\140Vb\Labs\Lab1\bin\Debug\Lab1.xml
+S:\140Vb\Labs\Lab1\obj\Debug\Lab1.frmMain.resources
+S:\140Vb\Labs\Lab1\obj\Debug\Lab1.Resources.resources
+S:\140Vb\Labs\Lab1\obj\Debug\Lab1.vbproj.GenerateResource.Cache
+S:\140Vb\Labs\Lab1\obj\Debug\Lab1.exe
+S:\140Vb\Labs\Lab1\obj\Debug\Lab1.xml
+S:\140Vb\Labs\Lab1\obj\Debug\Lab1.pdb
